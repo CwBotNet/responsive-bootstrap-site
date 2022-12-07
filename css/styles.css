@@ -246,7 +246,8 @@ p{
     }
 }
 
-@media (max-width:360px){
+
+@media (max-width:460px){
     .navbar-brand{
         font-size: 1.2rem;
     }
