@@ -225,10 +225,9 @@ p{
 
 
 
-@media (max-width:1400px){
+@media (max-width:1366px){
 
-    
-    
+        
     .title-image{
         transform: rotate(0);
     }
@@ -243,5 +242,11 @@ p{
     .position-index{
         width: 30%;
         margin-left: 7.1875rem;
+    }
+}
+
+@media (max-width:360px){
+    .navbar-brand{
+        font-size: 1.2rem;
     }
 }
